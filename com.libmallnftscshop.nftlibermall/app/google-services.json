@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "728292521093",
+    "project_id": "libermall-nft",
+    "storage_bucket": "libermall-nft.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728292521093:android:f37fe95b606a117b1ae5ec",
+        "android_client_info": {
+          "package_name": "com.libmallnftscshop.nftlibermall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728292521093-iai1a8j6ajsqaoug5kchuh4cpqonm91c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmZRyAnO3zmzAQ4HLgyfjBQrDuGMDxGBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728292521093-iai1a8j6ajsqaoug5kchuh4cpqonm91c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
